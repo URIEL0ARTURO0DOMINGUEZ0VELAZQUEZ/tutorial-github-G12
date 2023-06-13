@@ -6,3 +6,6 @@ Esta linea de texto representa el primer commit con github.
 PRACTICANDO EL SEGUNDO COMMIT
 
 Esta linea corresponde al tercer commit de mi primer practica
+
+Esta linea corresponde al 4to commit, , no se utiliza el git Desktop
+
